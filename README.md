@@ -1,0 +1,2 @@
+# CvPyQt
+PyQt OpenCV 
